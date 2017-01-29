@@ -24,8 +24,9 @@
   </head>
     <h1>Bricken.se</h1>
     <body>
+<p>Hej! Jag heter Ulrika Sturén,</p>
 <p><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
 <p>skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
-<p>eller hitta mig <a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48">på LinkedIn.</a></p>
+<p>eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
 </body>
 </html>
