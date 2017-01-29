@@ -7,9 +7,9 @@
         font-family: 'League Script';
           font-style: normal;
           font-weight: 400;
-        font-size: 48px;
-        bgcolor="#c0c0c0"
-        text-align:center;
+        font-size: 77px;
+        bgcolor="#cdcdcd"
+        text-align: center;
       }
 
       body {
@@ -17,8 +17,8 @@
         font-style: normal;
         font-weight: 400;
       font-size: 22px;
-      bgcolor="#c0c0c0"
-      text-align:center;
+      bgcolor="#cdcdcd"
+      text-align: center;
     }
     </style>
   </head>
@@ -26,6 +26,6 @@
     <body>
 <p><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
 <p>skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
-<p">eller hitta mig <a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48">på LinkedIn.</a></p>
+<p>eller hitta mig <a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48">på LinkedIn.</a></p>
 </body>
 </html>
