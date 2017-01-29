@@ -17,7 +17,7 @@
         font-style: normal;
         font-weight: 400;
       font-size: 16px;
-      background-color; silver;
+      background-color: silver;
       text-align: center;
     }
     </style>
