@@ -28,5 +28,6 @@
 <p align="center"><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
 <p align="center">skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
 <p align="center">eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
+<a href="http://makeagif.com/yE3U3p" title=""><img src="http://i.makeagif.com/media/1-29-2017/yE3U3p.gif" alt=""></a><div style="font-size:11px;">make <a href="http://makeagif.com" title="make a gif">action GIFs</a> like this at MakeaGif</div>
 </body>
 </html>
