@@ -13,6 +13,4 @@
 </p>
 
 
-    background-color: c0c0c0;
-
 
