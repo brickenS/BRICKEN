@@ -8,7 +8,7 @@
           font-style: normal;
           font-weight: 400;
         font-size: 77px;
-        bgcolor="#cdcdcd"
+        background-color: silver;
         text-align: center;
       }
 
@@ -17,7 +17,7 @@
         font-style: normal;
         font-weight: 400;
       font-size: 16px;
-      bgcolor="#cdcdcd"
+      background-color; silver
       text-align: center;
     }
     </style>
