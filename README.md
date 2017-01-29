@@ -16,17 +16,17 @@
       font-family: 'Verdana';
         font-style: normal;
         font-weight: 400;
-      font-size: 22px;
+      font-size: 16px;
       bgcolor="#cdcdcd"
       text-align: center;
     }
     </style>
   </head>
-    <h1>Bricken.se</h1>
+    <h1 align="center">Bricken.se</h1>
     <body>
-<p>Hej! Jag heter Ulrika Sturén,</p>
-<p><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
-<p>skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
-<p>eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
+<p align="center">Hej! Jag heter Ulrika Sturén,</p>
+<p align="center"><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
+<p align="center">skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
+<p align="center">eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
 </body>
 </html>
