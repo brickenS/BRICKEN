@@ -22,11 +22,11 @@
     }
     </style>
   </head>
-    <h1 align="left">Bricken.se</h1>
+    <h1 align="center">Bricken.se</h1>
     <body>
-<p align="left">Hej! Jag heter Ulrika Sturén,</p>
-<p align="left"><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
-<p align="left">skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
-<p align="left">eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
+<p align="center">Hej! Jag heter Ulrika Sturén,</p>
+<p align="center"><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
+<p align="center">skicka mig en <a href="https://twitter.com/bricken140">tweet</a></p>
+<p align="center">eller hitta mig på<a href="https://se.linkedin.com/in/ulrika-sturén-a6314b48"> LinkedIn.</a></p>
 </body>
 </html>
