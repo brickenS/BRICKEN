@@ -7,7 +7,7 @@
         font-family: 'League Script';
           font-style: normal;
           font-weight: 400;
-        font-size: 122px;
+        font-size: 177px;
         background-color: silver;
         text-align: center;
       }
@@ -16,7 +16,7 @@
       font-family: 'Verdana';
         font-style: normal;
         font-weight: 400;
-      font-size: 33px;
+      font-size: 45px;
       background-color: silver;
       text-align: center;
     }
