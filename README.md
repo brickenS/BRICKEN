@@ -1,7 +1,7 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css"
-          href="https://fonts.googleapis.com/css?family=League+Script">
+          href="https://fonts.googleapis.com/css?family=Notable">
     <style>
         h1 {
         font-family: 'Notable';
@@ -18,8 +18,8 @@
       font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-      font-size: 33px;
-      background-color: silver;
+      font-size: 44px;
+      background-color: PaleVioletRed;
       text-align: center;
     }
     </style>
