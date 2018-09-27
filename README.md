@@ -7,7 +7,7 @@
         font-family: 'Notable';
           font-style: normal;
           font-weight: 400;
-        font-size: 122px;
+        font-size: 144px;
         background-color: PaleVioletRed;
         text-align: center;
       }
