@@ -4,16 +4,16 @@
           href="https://fonts.googleapis.com/css?family=League+Script">
     <style>
         h1 {
-        font-family: 'League Script';
+        font-family: 'Notable';
           font-style: normal;
           font-weight: 400;
         font-size: 122px;
-        background-color: silver;
+        background-color: PaleVioletRed;
         text-align: center;
       }
 
       body {
-      font-family: 'Verdana';
+      font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
       font-size: 33px;
