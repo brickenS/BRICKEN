@@ -9,7 +9,7 @@
         font-family: 'Notable';
           font-style: normal;
           font-weight: 400;
-        font-size: 144px;
+        font-size: 177px;
         background-color: PaleVioletRed;
         text-align: center;
       }
@@ -20,13 +20,13 @@
       font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-      font-size: 44px;
+      font-size: 64px;
       background-color: PaleVioletRed;
       text-align: center;
     }
     </style>
   </head>
-    <h1 align="center">Bricken</h1>
+    <h1 align="center">Bricken.se</h1>
     <body>
 <p align="center">Hej! Jag heter Ulrika Sturén,</p>
 <p align="center"><a href="mailto:sturen.ulrika@gmail.com">Mejla mig</a> gärna,</p>
